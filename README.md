@@ -1,7 +1,9 @@
 # Número Secreto - Game JS
 
-Bem-vindo ao Número Secreto - Game JS. 
-Este projeto é uma aula do curso "Linguagem de programação: mergulhe em programação com JavaScript" da formação "A partir do zero: iniciante em Programação" da Alura.
+Bem-vindo ao jogo Número Secreto.
+Este é um jogo simples onde o usuário tenta adivinhar um número secreto gerado aleatoriamente.
+Este projeto é uma aula do curso "Linguagem de programação: mergulhe em programação com JavaScript" da Formação "A partir do zero: iniciante em Programação" da Alura.
+Desenvolvido para estudar estruturas de programação.
 
 ## Funcionalidades
 
