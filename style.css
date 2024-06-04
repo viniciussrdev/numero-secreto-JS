@@ -1,3 +1,4 @@
+/* Define estilo base para todos os elementos */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -5,6 +6,7 @@
     color: white;
 }
 
+/* Estiliza o corpo da página */
 body {
     background: linear-gradient(#1354A5 0%, #041832 33.33%, #041832 66.67%, #01080E 100%);
     height: 100vh;
@@ -13,7 +15,7 @@ body {
     justify-content: center;
 }
 
-
+/* Adiciona uma imagem de fundo com opacidade */
 body::before {
     background-image: url("img/code.png");
     background-repeat: no-repeat;
@@ -26,6 +28,7 @@ body::before {
     opacity: 0.4;
 }
 
+/* Estiliza o container principal */
 .container {
     width: 1200px;
     height: 600px;
@@ -40,6 +43,7 @@ body::before {
     position: relative;
 }
 
+/* Estiliza o conteúdo do container */
 .container__conteudo {
     display: flex;
     align-items: center;
@@ -47,11 +51,13 @@ body::before {
     bottom: 0;
 }
 
+/* Estiliza a seção de informações do jogo */
 .container__informacoes {
     flex: 1;
     padding: 20px;
 }
 
+/* Estiliza o botão (não utilizado no HTML fornecido) */
 .container__botao {
     border-radius: 16px;
     background: #1875E8;
@@ -63,25 +69,30 @@ body::before {
     margin-top: 16px;
 }
 
+/* Estiliza o texto dentro do container */
 .container__texto {
     margin: 16px 0 16px 0;
 }
 
+/* Estiliza o texto azul dentro do container */
 .container__texto-azul {
     color: #1875E8;
 }
 
+/* Estiliza o título principal */
 h1 {
     font-family: 'Chakra Petch', sans-serif;
     font-size: 72px;
 }
 
+/* Estiliza subtítulos, parágrafos e botões */
 h2,
 p,
 button {
     font-family: 'Inter', sans-serif;
 }
 
+/* Estiliza o subtítulo */
 h2 {
     font-size: 32px;
     font-weight: 400;

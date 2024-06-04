@@ -1,5 +1,3 @@
-// *** GAME JS - Número Secreto ***
-
 // Exibe uma mensagem de boas-vindas ao usuário
 alert("Seja bem vindo(a) ao Game - Número Secreto.");
 
