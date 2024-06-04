@@ -7,13 +7,13 @@ Desenvolvido para estudar estruturas de programação.
 
 ## Funcionalidades
 
-- O usuário recebe uma mensagem de boas-vindas ao iniciar o jogo.
-- O jogo gera um número secreto entre 1 e 100.
-- O usuário tenta adivinhar o número secreto.
-- O jogo fornece dicas se o palpite do usuário é maior ou menor que o número secreto.
-- O jogo exibe uma mensagem de parabéns quando o usuário acerta o número secreto e informa o número de tentativas.
+- Mensagem de boas ao iniciar o jogo.
+- Geração de um número aleatório entre 0 e 100.
+- Solicitação de palpites para o usuário.
+- Fornecimento de dicas caso o número secreto seja maior ou menor o palpite.
+- Mnsagem de parabéns quando o usuário acerta o número secreto e informa o número de tentativas.
 
-## Tecnologias Utilizadas
+## Tecnologias
 
 - **HTML**: Utilizado para estruturar a página web.
 - **CSS**: Utilizado para estilizar a página web e torná-la visualmente atraente.
@@ -41,4 +41,4 @@ Todo o código (HTML, CSS e JavaScript) está comentado para facilitar o entendi
 
 ## Contribuições
 
-Esse projeto é uma reprodução.
+Esse projeto é a reprodução de uma aula de um curso da Alura.
