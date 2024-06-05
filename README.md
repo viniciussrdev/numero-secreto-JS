@@ -42,4 +42,3 @@ Todo o código (HTML, CSS e JavaScript) está comentado para facilitar o entendi
 ## Contribuições
 
 Esse projeto é a reprodução de uma aula de um curso da Alura.
-Teste.
